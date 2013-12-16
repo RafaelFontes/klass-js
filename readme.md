@@ -7,7 +7,7 @@ It's a simple way to create classes with static, public and private methods/vari
 
 All the files are under the example folder
 
-`
+```javascript
 require ('../klass.js');
 require ('./helloworld.js');
 require ('./annotations/action.js');
@@ -37,4 +37,4 @@ for(var key in hw)
 
  Process finished with exit code 0
  */
- `
+ ```
